@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "nodeist.net",
+  "services": [
+    {
+      "title": "nodeist.net",
+      "description": "seed, peers, IBC relaying, PRC, API etc. support.",
+      "url": "https://nodeist.net"
+    }
+  ]
+}
